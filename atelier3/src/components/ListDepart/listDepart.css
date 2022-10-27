@@ -1,0 +1,19 @@
+img{
+    width:20%;
+    position: relative;
+    right: 30%;
+}
+h3,h2{
+    text-transform: capitalize;
+}
+input{
+    width:30% !important;
+position: relative;
+left:30%
+    
+}
+#ajouter{
+    position: relative;
+  bottom: 38px;
+  left:20%
+}

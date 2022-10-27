@@ -1,0 +1,13 @@
+.nav-link{
+    margin:15px;
+    
+    }
+    .nav{
+    font-family: 'Island Moments',cursive;
+    font-size: 50px;
+    text-decoration: none;
+    font-weight: 700;
+    color:#00869f
+
+    }
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
